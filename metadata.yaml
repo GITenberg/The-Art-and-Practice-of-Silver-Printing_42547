@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41716
     wikipedia: http://en.wikipedia.org/wiki/William_de_Wiveleslie_Abney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42547#The-Art-and-Practice-of-Silver-Printing
 gutenberg_bookshelf: Photography
 gutenberg_issued: '2013-04-10'
 gutenberg_type: Text
